@@ -42,6 +42,8 @@ GIT_TOKEN = getenv(
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/All_super_music")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Sweet_chat_aao")
 
+API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
+API_KEY = getenv("API_KEY", 'NxGBNexGenBots5f9035') # youtube song api ke
 
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
